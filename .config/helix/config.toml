@@ -1,0 +1,19 @@
+theme = "base16_terminal"
+
+[editor]
+line-number = "relative"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[keys.normal]
+"space" = { "space" = "file_picker" }
+
+[keys.insert]
+C-c = "normal_mode"
+
