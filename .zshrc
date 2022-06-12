@@ -13,11 +13,12 @@ alias update="yay -Syu"
 alias clean="yay -Rns $(yay -Qdtq)"
 alias dtf='/usr/bin/git --git-dir=/home/danny/dev/me/dotfiles/ --work-tree=/home/danny'
 
-alias hx="helix" # https://github.com/helix-editor/helix
-alias cd="z"     # https://github.com/ajeetdsouza/zoxide
-alias ls="exa"   # https://github.com/ogham/exa
-alias cat="bat"  # https://github.com/sharkdp/bat
-alias find="fd"  # https://github.com/sharkdp/fd
+alias hx="helix"  # https://github.com/helix-editor/helix
+alias cd="z"      # https://github.com/ajeetdsouza/zoxide
+alias ls="exa"    # https://github.com/ogham/exa
+alias cat="bat"   # https://github.com/sharkdp/bat
+alias find="fd"   # https://github.com/sharkdp/fd
+alias tig="gitui" # https://github.com/extrawurst/gitui
 
 # Tools
 
