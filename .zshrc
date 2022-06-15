@@ -10,7 +10,8 @@ export PATH=$PATH:~/.local/bin
 
 alias reload="source ~/.zshrc"
 alias update="yay -Syu"
-alias clean="yay -Rns $(yay -Qdtq)"
+alias orphans="yay -Qdtq"
+
 alias dtf='/usr/bin/git --git-dir=/home/danny/dev/me/dotfiles/ --work-tree=/home/danny'
 
 alias hx="helix"  # https://github.com/helix-editor/helix
