@@ -2,7 +2,7 @@
 
 ```
 yay -Syu zsh starship zoxide exa bat fd github-cli gitui git-delta \
-         kitty helix nerd-fonts-complete \
+         kitty helix nerd-fonts-complete ttf-font-awesome \
          sway swayidle sway-bg sway-launcher-desktop waybar sworkstyle
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
