@@ -10,7 +10,7 @@ export PATH=$PATH:~/.local/bin
 
 alias reload="source ~/.zshrc"
 alias update="yay -Syu"
-alias orphans="yay -Qdtq"
+alias clean="yay -Qtdq | yay -Rns -"
 
 alias dtf='/usr/bin/git --git-dir=/home/danny/dev/me/dotfiles --work-tree=/home/danny'
 
