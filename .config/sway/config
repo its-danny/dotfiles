@@ -13,10 +13,10 @@ set $right l
 
     ## Idle
     exec swayidle -w \
-        timeout 300 'swaylock -f -c 000000' \
-        timeout 600 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
-        before-sleep 'swaylock -f -c 000000'
-
+        timeout 1800 'swaylock -f -i /home/danny/wallpaper.jpg' \
+        timeout 1805 'swaymsg "output * dpms off"' \
+        resume 'swaymsg "output * dpms on"'
+                
     ## Terminal
     set $term kitty
 
