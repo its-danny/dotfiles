@@ -27,9 +27,6 @@ alias tig="gitui" # https://github.com/extrawurst/gitui
 eval "$(zoxide init zsh)"
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-## Rust - https://rustup.rs/
-source $HOME/.cargo/env
-
 ## Volta - https://volta.sh
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"

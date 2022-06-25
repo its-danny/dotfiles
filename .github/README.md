@@ -1,13 +1,20 @@
+# 🖼️ My dotfiles for Sway on Arch Linux 
+
+This assumes [Sway](https://github.com/swaywm/sway) is already installed.
+
 ### Install a whole lot of packages
 
 ```
-yay -Syu zsh starship zoxide exa bat fd github-cli gitui git-delta \
-         kitty helix nerd-fonts-complete ttf-font-awesome \
-         sway swayidle sway-bg sway-launcher-desktop waybar sworkstyle mako \
-         grimshot wl-clipboard
+yay -Syu nerd-fonts-complete ttf-font-awesome \
+         zsh starship zoxide exa bat fd github-cli gitui git-delta \
+         sway swayidle swaybg sway-launcher-desktop waybar sworkstyle mako \
+         kitty helix firefox grimshot wl-clipboard \
+         rustup volta-bin 
+```
 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-curl https://get.volta.sh | bash
+### Get zsh auto-suggestions
+
+```
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ```
 
