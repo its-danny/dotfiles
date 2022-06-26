@@ -1,11 +1,6 @@
 # Starship - https://starship.rs/
 eval "$(starship init zsh)"
 
-# Exports
-
-export TERM=xterm-256color
-export PATH=$PATH:~/.local/bin
-
 # Aliases
 
 alias reload="source ~/.zshrc"
