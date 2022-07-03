@@ -7,7 +7,7 @@ This assumes [Sway](https://github.com/swaywm/sway) is already installed.
 ```
 yay -Syu nerd-fonts-complete ttf-font-awesome \
          zsh starship zoxide exa bat fd github-cli gitui git-delta \
-         sway swayidle swaylock swaybg sway-launcher-desktop waybar sworkstyle mako \
+         sway swayidle swaylock swaybg gyr waybar sworkstyle mako \
          kitty helix firefox ranger highlight python-pillow ffmpegthumbnailer mpv grimshot wl-clipboard mupdf \
          rustup volta-bin 
 ```
