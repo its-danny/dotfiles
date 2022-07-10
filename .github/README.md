@@ -24,5 +24,5 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosugges
 git clone --bare https://github.com/its-danny/dotfiles.git dev/me/dotfiles
 alias dtf='/usr/bin/git --git-dir=/home/danny/dev/me/dotfiles/ --work-tree=/home/danny'
 dtf config --local status.showUntrackedFiles no
-git reset --hard HEAD
+dtf reset --hard HEAD
 ```
