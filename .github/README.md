@@ -45,6 +45,7 @@ A list of apps I've got installed & various config files for MacOS.
 - [delta](https://github.com/dandavison/delta)
 - [devenv](https://devenv.sh)
   - [Determinate Nix Installer](https://github.com/DeterminateSystems/nix-installer)
+  - [cachix](https://docs.cachix.org/installation#flakes)
 - [jq](https://github.com/jqlang/jq)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [neovim](https://neovim.io)
