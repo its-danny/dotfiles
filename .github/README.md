@@ -2,77 +2,77 @@
 
 A list of apps I've got installed & various config files for MacOS.
 
-## Things installed
+## Apps
 
 ### Sys
 
-- https://dropoverapp.com
-- https://github.com/alienator88/Pearcleaner
-- https://github.com/be5invis/Iosevka
-- https://protonvpn.com
-- https://rectangleapp.com
-- https://superhighfives.com/pika
-- https://sw.kovidgoyal.net/kitty/
-- https://www.popclip.app
-- https://www.titanium-software.fr/en/onyx.html
+- [Dropover](https://dropoverapp.com)
+- [Ioveska](https://github.com/be5invis/Iosevka)
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
+- [Onyx](https://www.titanium-software.fr/en/onyx.html)
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+- [Pika](https://superhighfives.com/pika)
+- [PopClip](https://www.popclip.app)
+- [Proton VPN](https://protonvpn.com)
+- [Rectangle](https://rectangleapp.com)
 
 ### CLI
 
-- https://brew.sh
-- https://fishshell.com
-- https://github.com/BurntSushi/ripgrep
-- https://github.com/ClementTsang/bottom
-- https://github.com/ajeetdsouza/zoxide
-- https://github.com/eza-community/eza
-- https://github.com/junegunn/fzf
-- https://github.com/sharkdp/bat
-- https://github.com/sharkdp/fd
-- https://starship.rs
+- [Homebrew](https://brew.sh)
+- [Starship](https://starship.rs)
+- [bat](https://github.com/sharkdp/bat)
+- [bottom](https://github.com/ClementTsang/bottom)
+- [eza](https://github.com/eza-community/eza)
+- [fd](https://github.com/sharkdp/fd)
+- [fish](https://fishshell.com)
+- [fzf](https://github.com/junegunn/fzf)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ### Brain
 
-- https://github.com/zenangst/KeyboardCowboy
-- https://logseq.com
-- https://mindmac.app
-- https://www.grammarly.com
-- https://www.raycast.com
+- [Grammarly](https://www.grammarly.com)
+- [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)
+- [Logseq](https://logseq.com)
+- [MindMac](https://mindmac.app)
+- [Raycast](https://www.raycast.com)
 
 ### Dev
 
-- https://cli.github.com
-- https://devenv.sh
-  - https://github.com/DeterminateSystems/nix-installer
-- https://github.com/dandavison/delta
-- https://github.com/jesseduffield/lazygit
-- https://github.com/jqlang/jq
-- https://ldtk.io
-- https://neovim.io
-- https://zellij.dev
+- [GitHub CLI](https://cli.github.com)
+- [LDtk](https://ldtk.io)
+- [Zellij](https://zellij.dev)
+- [delta](https://github.com/dandavison/delta)
+- [devenv](https://devenv.sh)
+  - [Determinate Nix Installer](https://github.com/DeterminateSystems/nix-installer)
+- [jq](https://github.com/jqlang/jq)
+- [lazygit](https://github.com/jesseduffield/lazygit)
+- [neovim](https://neovim.io)
 
 ### Art
 
-- https://splice.com/
-- https://www.ableton.com/en/
-- https://www.adobe.com/apps/all/desktop/pdp/creative-cloud
-- https://www.literatureandlatte.com/scrivener/overview
+- [Ableton](https://www.ableton.com/en/)
+- [Adobe Suite](https://www.adobe.com/apps/all/desktop/pdp/creative-cloud)
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+- [Splice](https://splice.com/)
 
 ### Social
 
-- https://discord.com
-- https://slack.com
+- [Discord](https://discord.com)
+- [Slack](https://slack.com)
 
 ### School
 
-- https://www.office.com
-- https://www.zotero.org
+- [Microsoft 365](https://www.office.com)
+- [Zotero](https://www.zotero.org)
 
 ### Media
 
-- https://iina.io
+- [IINA](https://iina.io)
 
 ### Etc
 
-- https://bitwarden.com/help/cli/
-- https://kagi.com/orion/
-- https://www.dropbox.com/
+- [Bitwarden CLI](https://bitwarden.com/help/cli/)
+- [Dropbox](https://www.dropbox.com/)
+- [Orion](https://kagi.com/orion/)
 
