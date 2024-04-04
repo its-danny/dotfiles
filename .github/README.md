@@ -9,7 +9,6 @@ A list of apps I've got installed & various config files for MacOS.
 - https://dropoverapp.com
 - https://github.com/alienator88/Pearcleaner
 - https://github.com/be5invis/Iosevka
-- https://github.com/zenangst/KeyboardCowboy
 - https://protonvpn.com
 - https://rectangleapp.com
 - https://superhighfives.com/pika
@@ -32,6 +31,7 @@ A list of apps I've got installed & various config files for MacOS.
 
 ### Brain
 
+- https://github.com/zenangst/KeyboardCowboy
 - https://logseq.com
 - https://mindmac.app
 - https://www.grammarly.com
@@ -41,6 +41,7 @@ A list of apps I've got installed & various config files for MacOS.
 
 - https://cli.github.com
 - https://devenv.sh
+  - https://github.com/DeterminateSystems/nix-installer
 - https://github.com/dandavison/delta
 - https://github.com/jesseduffield/lazygit
 - https://github.com/jqlang/jq
