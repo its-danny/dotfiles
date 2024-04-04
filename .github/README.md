@@ -6,15 +6,16 @@ A list of apps I've got installed & various config files for MacOS.
 
 ### Sys
 
-- http://rectangleapp.com
 - https://dropoverapp.com
 - https://github.com/alienator88/Pearcleaner
 - https://github.com/be5invis/Iosevka
 - https://github.com/zenangst/KeyboardCowboy
 - https://protonvpn.com
+- https://rectangleapp.com
 - https://superhighfives.com/pika
 - https://sw.kovidgoyal.net/kitty/
 - https://www.popclip.app
+- https://www.titanium-software.fr/en/onyx.html
 
 ### CLI
 
