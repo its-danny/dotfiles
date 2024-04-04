@@ -44,6 +44,7 @@ A list of apps I've got installed & various config files for MacOS.
 - https://github.com/dandavison/delta
 - https://github.com/jesseduffield/lazygit
 - https://github.com/jqlang/jq
+- https://ldtk.io
 - https://neovim.io
 - https://zellij.dev
 
