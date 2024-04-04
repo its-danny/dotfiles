@@ -40,6 +40,7 @@ A list of apps I've got installed & various config files for MacOS.
 ### Dev
 
 - https://cli.github.com
+- https://devenv.sh
 - https://github.com/dandavison/delta
 - https://github.com/jesseduffield/lazygit
 - https://github.com/jqlang/jq
