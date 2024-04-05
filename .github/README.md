@@ -69,6 +69,7 @@ A list of apps I've got installed & various config files for MacOS.
 ### Media
 
 - [IINA](https://iina.io)
+- [Spotify](https://www.spotify.com)
 
 ### Etc
 
