@@ -33,7 +33,7 @@ A list of apps I've got installed & various config files for MacOS.
 
 - [Grammarly](https://www.grammarly.com)
 - [KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)
-- [Logseq](https://logseq.com)
+- [Anytype](https://anytype.io)
 - [Raycast](https://www.raycast.com)
 
 ### Dev
