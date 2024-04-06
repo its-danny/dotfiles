@@ -7,6 +7,7 @@ A list of apps I've got installed & various config files for MacOS.
 ### Sys
 
 - [Dropover](https://dropoverapp.com)
+- [Ice](https://github.com/jordanbaird/Ice)
 - [Ioveska](https://github.com/be5invis/Iosevka)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
 - [Onyx](https://www.titanium-software.fr/en/onyx.html)
