@@ -10,6 +10,7 @@ A list of apps I've got installed & various config files for MacOS.
 - [Ice](https://github.com/jordanbaird/Ice)
 - [Ioveska](https://github.com/be5invis/Iosevka)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
+- [Latest](https://max.codes/latest/)
 - [Onyx](https://www.titanium-software.fr/en/onyx.html)
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 - [Pika](https://superhighfives.com/pika)
