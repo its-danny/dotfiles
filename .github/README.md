@@ -9,6 +9,7 @@ A list of apps I've got installed & various config files for MacOS.
 - [Dropover](https://dropoverapp.com)
 - [Ice](https://github.com/jordanbaird/Ice)
 - [Ioveska](https://github.com/be5invis/Iosevka)
+- [KeyClu](https://github.com/Anze/KeyCluCask)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
 - [Latest](https://max.codes/latest/)
 - [Onyx](https://www.titanium-software.fr/en/onyx.html)
