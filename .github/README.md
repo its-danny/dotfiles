@@ -26,6 +26,7 @@ A list of apps I've got installed & various config files for MacOS.
 - [Starship](https://starship.rs)
 - [bat](https://github.com/sharkdp/bat)
 - [bottom](https://github.com/ClementTsang/bottom)
+- [choose](https://github.com/theryangeary/choose)
 - [eza](https://github.com/eza-community/eza)
 - [fd](https://github.com/sharkdp/fd)
 - [fish](https://fishshell.com)
