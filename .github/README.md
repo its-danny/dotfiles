@@ -46,10 +46,8 @@ A list of apps I've got installed & various config files for MacOS.
 - [GitHub CLI](https://cli.github.com)
 - [LDtk](https://ldtk.io)
 - [Zellij](https://zellij.dev)
+- [asdf](https://asdf-vm.com)
 - [delta](https://github.com/dandavison/delta)
-- [devenv](https://devenv.sh)
-  - [Determinate Nix Installer](https://github.com/DeterminateSystems/nix-installer)
-  - [cachix](https://docs.cachix.org/installation#flakes)
 - [jq](https://github.com/jqlang/jq)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [neovim](https://neovim.io)
@@ -81,4 +79,3 @@ A list of apps I've got installed & various config files for MacOS.
 - [Dropbox](https://www.dropbox.com/)
 - [Encyrpto](https://macpaw.com/encrypto)
 - [Orion](https://kagi.com/orion/)
-
