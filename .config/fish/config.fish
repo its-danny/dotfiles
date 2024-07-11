@@ -25,4 +25,11 @@ alias ls="eza" # https://github.com/eza-community/eza
 # asdf - https://asdf-vm.com
 
 source /opt/homebrew/opt/asdf/libexec/asdf.fish
+
+# direnv - https://direnv.net
+
+direnv hook fish | source
+
+# Paths
+
 fish_add_path ~/.cargo/bin

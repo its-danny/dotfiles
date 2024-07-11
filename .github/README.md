@@ -48,6 +48,8 @@ A list of apps I've got installed & various config files for MacOS.
 - [Zellij](https://zellij.dev)
 - [asdf](https://asdf-vm.com)
 - [delta](https://github.com/dandavison/delta)
+- [devenv](https://devenv.sh)
+- [direnv](https://direnv.net)
 - [jq](https://github.com/jqlang/jq)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [neovim](https://neovim.io)
