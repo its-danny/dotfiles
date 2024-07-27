@@ -9,7 +9,6 @@ A list of apps I've got installed & various config files for MacOS.
 - [Dropover](https://dropoverapp.com)
 - [Ice](https://github.com/jordanbaird/Ice)
 - [Ioveska](https://github.com/be5invis/Iosevka)
-- [KeyClu](https://github.com/Anze/KeyCluCask)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
 - [Latest](https://max.codes/latest/)
 - [Onyx](https://www.titanium-software.fr/en/onyx.html)
@@ -44,9 +43,7 @@ A list of apps I've got installed & various config files for MacOS.
 ### Dev
 
 - [GitHub CLI](https://cli.github.com)
-- [LDtk](https://ldtk.io)
 - [Zellij](https://zellij.dev)
-- [asdf](https://asdf-vm.com)
 - [delta](https://github.com/dandavison/delta)
 - [devenv](https://devenv.sh)
 - [direnv](https://direnv.net)
@@ -65,11 +62,6 @@ A list of apps I've got installed & various config files for MacOS.
 
 - [Discord](https://discord.com)
 - [Slack](https://slack.com)
-
-### School
-
-- [Microsoft 365](https://www.office.com)
-- [Zotero](https://www.zotero.org)
 
 ### Media
 
