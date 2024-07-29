@@ -22,10 +22,6 @@ alias find="fd" # https://github.com/sharkdp/fd
 alias grep="rg" # https://github.com/BurntSushi/ripgrep
 alias ls="eza" # https://github.com/eza-community/eza
 
-# asdf - https://asdf-vm.com
-
-source /opt/homebrew/opt/asdf/libexec/asdf.fish
-
 # direnv - https://direnv.net
 
 direnv hook fish | source
