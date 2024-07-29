@@ -42,6 +42,7 @@ A list of apps I've got installed & various config files for MacOS.
 
 ### Dev
 
+- [Docker](https://www.docker.com)
 - [GitHub CLI](https://cli.github.com)
 - [Zellij](https://zellij.dev)
 - [delta](https://github.com/dandavison/delta)
