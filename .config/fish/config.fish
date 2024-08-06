@@ -10,6 +10,10 @@ zoxide init fish | source
 
 fzf --fish | source
 
+# direnv - https://direnv.net
+
+direnv hook fish | source
+
 # Aliases
 
 alias dtf="/opt/homebrew/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
@@ -21,7 +25,3 @@ alias cat="bat" # https://github.com/sharkdp/bat
 alias find="fd" # https://github.com/sharkdp/fd
 alias grep="rg" # https://github.com/BurntSushi/ripgrep
 alias ls="eza" # https://github.com/eza-community/eza
-
-# direnv - https://direnv.net
-
-direnv hook fish | source

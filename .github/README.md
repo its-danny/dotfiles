@@ -20,7 +20,6 @@ A list of apps I've got installed & various config files for MacOS.
 
 ### CLI
 
-- [Bitwarden CLI](https://bitwarden.com/help/cli/)
 - [Homebrew](https://brew.sh)
 - [Starship](https://starship.rs)
 - [bat](https://github.com/sharkdp/bat)

@@ -8,4 +8,14 @@ return {
       { "<leader>fs", "<cmd>Telescope lsp_document_symbols<cr>", desc = "Symbols" },
     },
   },
+  {
+    "neovim/nvim-lspconfig",
+    opts = {
+      servers = {
+        tailwindcss = {
+          filetypes_include = { "rust" },
+        },
+      },
+    },
+  },
 }
