@@ -1,6 +1,7 @@
 [user]
   name = Danny Tatom
   email = danny@tatom.xyz
+	signingkey = 71BA823238005462
 
 [github]
   user = its-danny
@@ -25,3 +26,6 @@
 
 [init]
 	defaultBranch = main
+
+[commit]
+	gpgsign = true
