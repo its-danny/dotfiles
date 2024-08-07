@@ -15,7 +15,6 @@ A list of apps I've got installed & various config files for MacOS.
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 - [Pika](https://superhighfives.com/pika)
 - [PopClip](https://www.popclip.app)
-- [Proton VPN](https://protonvpn.com)
 - [Rectangle](https://rectangleapp.com)
 
 ### CLI
@@ -72,4 +71,3 @@ A list of apps I've got installed & various config files for MacOS.
 
 - [Dropbox](https://www.dropbox.com/)
 - [Encyrpto](https://macpaw.com/encrypto)
-- [Orion](https://kagi.com/orion/)
