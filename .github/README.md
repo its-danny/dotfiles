@@ -6,7 +6,6 @@ A list of apps I've got installed & various config files for MacOS.
 
 ### Sys
 
-- [Dropover](https://dropoverapp.com)
 - [Ice](https://github.com/jordanbaird/Ice)
 - [Ioveska](https://github.com/be5invis/Iosevka)
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
@@ -14,7 +13,6 @@ A list of apps I've got installed & various config files for MacOS.
 - [Onyx](https://www.titanium-software.fr/en/onyx.html)
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 - [Pika](https://superhighfives.com/pika)
-- [PopClip](https://www.popclip.app)
 - [Rectangle](https://rectangleapp.com)
 
 ### CLI
