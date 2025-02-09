@@ -1,0 +1,36 @@
+brew "bat"
+brew "eza"
+brew "fd"
+brew "fish"
+brew "fzf"
+brew "gh"
+brew "git-delta"
+brew "gnupg"
+brew "neovim"
+brew "node"
+brew "ripgrep"
+brew "starship"
+brew "zoxide"
+
+cask "cleanshot"
+cask "docker"
+cask "firefox"
+cask "font-iosevka"
+cask "ghostty"
+cask "jordanbaird-ice"
+cask "nordvpn"
+cask "notion"
+cask "raycast"
+cask "rectangle"
+
+{% if yadm.hostname == "meadow" %}
+cask "affinity-photo"
+cask "discord"
+{% endif %}
+
+
+{% if yadm.hostname == "forest" %}
+cask "gather"
+cask "linear-linear"
+cask "slack"
+{% endif %}
