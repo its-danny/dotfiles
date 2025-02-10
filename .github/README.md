@@ -1,7 +1,7 @@
 # 🫦 dotfiles
 
-Install [homebrew](https://brew.sh/)
-& run the following commands to get it all set up:
+Install [homebrew](https://brew.sh/) & [devenv](https://devenv.sh/) then
+run the following commands to get it all set up:
 
 ```bash
 brew install yadm
