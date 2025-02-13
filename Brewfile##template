@@ -28,7 +28,6 @@ cask "affinity-photo"
 cask "discord"
 {% endif %}
 
-
 {% if yadm.hostname == "forest" %}
 cask "gather"
 cask "linear-linear"
