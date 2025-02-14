@@ -1,4 +1,5 @@
 brew "bat"
+brew "curlie"
 brew "eza"
 brew "fd"
 brew "fish"
