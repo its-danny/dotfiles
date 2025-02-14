@@ -25,7 +25,9 @@ cask "raycast"
 cask "rectangle"
 
 {% if yadm.hostname == "meadow" %}
+cask "affinity-designer"
 cask "affinity-photo"
+cask "affinity-publisher"
 cask "discord"
 {% endif %}
 
