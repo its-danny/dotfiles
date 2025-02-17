@@ -29,6 +29,7 @@ cask "affinity-designer"
 cask "affinity-photo"
 cask "affinity-publisher"
 cask "discord"
+cask "steam"
 {% endif %}
 
 {% if yadm.hostname == "forest" %}
