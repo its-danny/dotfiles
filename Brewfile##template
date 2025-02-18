@@ -20,6 +20,7 @@ cask "firefox"
 cask "font-iosevka"
 cask "ghostty"
 cask "jordanbaird-ice"
+cask "linear-linear"
 cask "nordvpn"
 cask "notion"
 cask "raycast"
@@ -36,6 +37,5 @@ cask "steam"
 
 {% if yadm.hostname == "forest" %}
 cask "gather"
-cask "linear-linear"
 cask "slack"
 {% endif %}
