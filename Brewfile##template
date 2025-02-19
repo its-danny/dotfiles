@@ -14,7 +14,6 @@ brew "starship"
 brew "zoxide"
 
 cask "cleanshot"
-cask "cursor"
 cask "docker"
 cask "firefox"
 cask "font-iosevka"
@@ -25,6 +24,7 @@ cask "nordvpn"
 cask "notion"
 cask "raycast"
 cask "rectangle"
+cask "zed"
 
 {% if yadm.hostname == "meadow" %}
 cask "affinity-designer"
