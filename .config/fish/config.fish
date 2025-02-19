@@ -8,6 +8,10 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 set -g fish_greeting
 
+# direnv - https://direnv.net
+
+direnv hook fish | source
+
 # Starship - https://starship.rs
 
 starship init fish | source
