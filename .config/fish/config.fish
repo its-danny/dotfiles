@@ -24,6 +24,10 @@ zoxide init fish | source
 
 fzf --fish | source
 
+# rustup - https://rustup.rs
+
+source "$HOME/.cargo/env.fish"
+
 # Aliases
 
 alias cat="bat" # https://github.com/sharkdp/bat
