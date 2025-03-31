@@ -1,3 +1,5 @@
+source ~/.env
+
 export GPG_TTY=$(tty)
 
 # Homebrew - https://brew.sh
@@ -34,3 +36,15 @@ alias cat="bat" # https://github.com/sharkdp/bat
 alias find="fd" # https://github.com/sharkdp/fd
 alias grep="rg" # https://github.com/BurntSushi/ripgrep
 alias ls="eza" # https://github.com/eza-community/eza
+
+# Functions
+
+function up
+    set -l levels $argv[1]
+
+    if test -z "$levels"
+        set levels 1
+    end
+
+    cd (string repeat -n $levels ../)
+end
