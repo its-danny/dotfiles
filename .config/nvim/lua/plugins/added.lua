@@ -4,10 +4,6 @@ return {
     event = { "BufReadPost", "BufNewFile" },
   },
   {
-    "tris203/precognition.nvim",
-    opts = {},
-  },
-  {
     "yetone/avante.nvim",
     event = "VeryLazy",
     version = false,

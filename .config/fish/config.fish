@@ -6,17 +6,13 @@ export GPG_TTY=$(tty)
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-# Fish - https://fishshell.com/
+# Starship - https://starship.rs
 
-set -g fish_greeting
+starship init fish | source
 
 # direnv - https://direnv.net
 
 direnv hook fish | source
-
-# Starship - https://starship.rs
-
-starship init fish | source
 
 # Zoxide - https://github.com/ajeetdsouza/zoxide
 
