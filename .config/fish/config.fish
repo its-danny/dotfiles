@@ -2,6 +2,10 @@ source ~/.env
 
 export GPG_TTY=$(tty)
 
+# Fish - https://fishshell.com/
+
+set -g fish_greeting
+
 # Homebrew - https://brew.sh
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
