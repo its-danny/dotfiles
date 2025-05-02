@@ -35,6 +35,7 @@ cask "affinity-designer"
 cask "affinity-photo"
 cask "affinity-publisher"
 cask "discord"
+cask "mudlet"
 {% endif %}
 
 {% if yadm.hostname == "forest" %}
