@@ -29,6 +29,7 @@ cask "nordvpn"
 cask "notion"
 cask "raycast"
 cask "rectangle"
+cask "shortcat"
 cask "zed"
 
 {% if yadm.hostname == "meadow" %}
