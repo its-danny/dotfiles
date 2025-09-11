@@ -17,13 +17,13 @@ brew "starship"
 brew "zoxide"
 
 cask "cleanshot"
-cask "docker"
 cask "firefox"
 cask "font-iosevka"
 cask "ghostty"
-cask "grammarly-desktop"
+cask "homerow"
 cask "jordanbaird-ice"
 cask "linear-linear"
+cask "ollama"
 cask "nordvpn"
 cask "notion"
 cask "raycast"
@@ -39,6 +39,5 @@ cask "mudlet"
 {% endif %}
 
 {% if yadm.hostname == "forest" %}
-cask "gather"
 cask "slack"
 {% endif %}
