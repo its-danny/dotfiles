@@ -1,5 +1,4 @@
 font-family = Iosevka
 font-size = 16
-theme = rose-pine
-macos-icon = paper
+theme = Rose Pine
 keybind = shift+enter=text:\n
