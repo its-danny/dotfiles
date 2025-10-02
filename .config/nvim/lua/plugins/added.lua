@@ -4,9 +4,23 @@ return {
     event = { "BufReadPost", "BufNewFile" },
   },
   {
-    "nvim-neorg/neorg",
-    lazy = false, -- Disable lazy loading as some `lazy.nvim` distributions set `lazy = true` by default
-    version = "*", -- Pin Neorg to the latest stable release
-    config = true,
+    "epwalsh/obsidian.nvim",
+    version = "*",
+    lazy = true,
+    ft = "markdown",
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+      "hrsh7th/nvim-cmp",
+      "nvim-telescope/telescope.nvim",
+      "nvim-treesitter",
+    },
+    opts = {
+      workspaces = {
+        {
+          name = "vault",
+          path = "~/vault",
+        },
+      },
+    },
   },
 }
