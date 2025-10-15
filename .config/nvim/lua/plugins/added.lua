@@ -4,23 +4,9 @@ return {
     event = { "BufReadPost", "BufNewFile" },
   },
   {
-    "epwalsh/obsidian.nvim",
-    version = "*",
-    lazy = true,
-    ft = "markdown",
+    "cbochs/portal.nvim",
     dependencies = {
-      "nvim-lua/plenary.nvim",
-      "hrsh7th/nvim-cmp",
-      "nvim-telescope/telescope.nvim",
-      "nvim-treesitter",
-    },
-    opts = {
-      workspaces = {
-        {
-          name = "vault",
-          path = "~/vault",
-        },
-      },
+      "cbochs/grapple.nvim",
     },
   },
 }
